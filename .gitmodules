@@ -1,0 +1,3 @@
+[submodule "sismos/client"]
+	path = sismos/client
+	url = https://github.com/BOTOOM/sismos.git
