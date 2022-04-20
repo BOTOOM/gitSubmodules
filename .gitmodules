@@ -1,3 +1,6 @@
 [submodule "sismos/client"]
 	path = sismos/client
 	url = https://github.com/BOTOOM/sismos.git
+[submodule "sismos/api"]
+	path = sismos/api
+	url = https://github.com/BOTOOM/sismo_api.git
